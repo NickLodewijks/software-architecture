@@ -2,7 +2,7 @@ package com.qc.qcr.sensor.domain;
 
 import java.util.Date;
 
-public abstract class SensorData<T> {
+public class SensorData<T> {
 	private final SensorDataType type;
 	private final T value;
 	private final Date timestamp;
