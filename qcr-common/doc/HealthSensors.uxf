@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>650</x>
+      <y>50</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Health Sensors
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>350</x>
+      <y>260</y>
+      <w>110</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Multiple sensor
+types
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>570</x>
+      <y>260</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Remind the 
+user to connect the 
+sensors
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>870</x>
+      <y>260</y>
+      <w>110</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Store sensor
+data
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>350</x>
+      <y>330</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Generic sensor
+interface
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>430</x>
+      <y>390</y>
+      <w>130</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Sensor connection
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>350</x>
+      <y>190</y>
+      <w>120</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>We want to be able to monitor multiple health related aspects.
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>660</x>
+      <y>460</y>
+      <w>160</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Wireless sensors will be good for usability, because the user is not attached to QCR by a wire.
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>580</x>
+      <y>200</y>
+      <w>120</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>The user might forget to use the health sensors.
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>420</x>
+      <y>580</y>
+      <w>220</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Provide wired and 
+wireless connection
+with external hardware
+--
+- Reliability
+- Usability
+- Interoperability
+
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>530</x>
+      <y>460</y>
+      <w>120</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Wireless Sensor
+Connection
+--
+- Usability
+- Interoperable
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>370</x>
+      <y>460</y>
+      <w>120</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Wired Sensor
+Connection
+--
+- Reliable
+- Interoperable
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>0</x>
+      <y>390</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Different sensor
+sample rate
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>160</x>
+      <y>460</y>
+      <w>210</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Many health related sensors have to be connected by wire. A wired connection is also by definition more reliable than wireless.
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>210</x>
+      <y>580</y>
+      <w>210</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>- Many health related sensors have to be connected by wire.
+- A wired connection is also by definition more reliable than wireless.
+- Wireless sensor connection is good for usability
+- Wired connection for M2M connection will require wires all over the place.
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>0</x>
+      <y>470</y>
+      <w>120</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Sensor 
+Configuration
+--
+- Modifiability
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>780</x>
+      <y>180</y>
+      <w>130</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Hardware Failure
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>690</x>
+      <y>340</y>
+      <w>120</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Event Driven
+Architecture
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>480</x>
+      <y>150</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Blood Pressure
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
