@@ -4,8 +4,8 @@
   <element>
     <type>com.baselet.element.old.element.State</type>
     <coordinates>
-      <x>1050</x>
-      <y>440</y>
+      <x>480</x>
+      <y>410</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -15,24 +15,10 @@ bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>UMLUseCase</id>
-    <coordinates>
-      <x>1040</x>
-      <y>540</y>
-      <w>120</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>Automatic
-System
-Upgrade
-bg=blue</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <type>com.baselet.element.old.element.State</type>
     <coordinates>
-      <x>1050</x>
-      <y>660</y>
+      <x>280</x>
+      <y>590</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -44,8 +30,8 @@ bg=red</panel_attributes>
   <element>
     <type>com.baselet.element.old.element.State</type>
     <coordinates>
-      <x>1190</x>
-      <y>660</y>
+      <x>450</x>
+      <y>590</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -55,46 +41,32 @@ bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>UMLUseCase</id>
-    <coordinates>
-      <x>1040</x>
-      <y>740</y>
-      <w>120</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>Deferred
-Binding
-bg=blue</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>1070</x>
-      <y>580</y>
-      <w>190</w>
-      <h>100</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-can cause</panel_attributes>
-    <additional_attributes>170;80;170;50;30;50;30;30</additional_attributes>
-  </element>
-  <element>
-    <type>com.baselet.element.old.element.Relation</type>
-    <coordinates>
-      <x>1070</x>
-      <y>580</y>
-      <w>50</w>
-      <h>100</h>
+      <x>470</x>
+      <y>490</y>
+      <w>80</w>
+      <h>120</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>30;80;30;30</additional_attributes>
+    <additional_attributes>30;100;30;70;60;70;60;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>300</x>
+      <y>490</y>
+      <w>250</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>30;100;30;70;230;70;230;30</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.State</type>
     <coordinates>
-      <x>1320</x>
-      <y>660</y>
+      <x>580</x>
+      <y>590</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -106,80 +78,63 @@ bg=red</panel_attributes>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>1070</x>
-      <y>580</y>
-      <w>320</w>
-      <h>100</h>
+      <x>500</x>
+      <y>490</y>
+      <w>150</w>
+      <h>120</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>300;80;300;50;30;50;30;30</additional_attributes>
+    <additional_attributes>130;100;130;70;30;70;30;30</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>1000</x>
-      <y>450</y>
-      <w>190</w>
-      <h>110</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-.                  solved by</panel_attributes>
-    <additional_attributes>100;90;100;30</additional_attributes>
-  </element>
-  <element>
-    <id>UMLUseCase</id>
-    <coordinates>
-      <x>1240</x>
-      <y>740</y>
-      <w>120</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>System
-Rollback
-bg=blue</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <type>com.baselet.element.old.element.Relation</type>
-    <coordinates>
-      <x>1180</x>
-      <y>670</y>
-      <w>176</w>
-      <h>90</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-
-.              solved by</panel_attributes>
-    <additional_attributes>120;70;120;50;60;50;60;30</additional_attributes>
-  </element>
-  <element>
-    <type>com.baselet.element.old.element.Relation</type>
-    <coordinates>
-      <x>1270</x>
-      <y>670</y>
-      <w>120</w>
-      <h>90</h>
+      <x>500</x>
+      <y>420</y>
+      <w>50</w>
+      <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>30;70;30;50;100;50;100;30</additional_attributes>
+    <additional_attributes>30;60;30;30</additional_attributes>
   </element>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>1000</x>
-      <y>670</y>
-      <w>190</w>
-      <h>90</h>
+      <x>470</x>
+      <y>600</y>
+      <w>110</w>
+      <h>100</h>
     </coordinates>
-    <panel_attributes>lt=&lt;.
-.                  solved by</panel_attributes>
-    <additional_attributes>100;70;100;30</additional_attributes>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>90;80;90;50;30;50;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>530</x>
+      <y>600</y>
+      <w>120</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;80;30;50;100;50;100;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>300</x>
+      <y>600</y>
+      <w>50</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;80;30;30</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1300</x>
-      <y>150</y>
+      <x>780</x>
+      <y>580</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -190,8 +145,8 @@ bg=red</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1300</x>
-      <y>100</y>
+      <x>780</x>
+      <y>530</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -202,10 +157,10 @@ bg=blue</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1290</x>
-      <y>0</y>
+      <x>770</x>
+      <y>430</y>
       <w>120</w>
-      <h>200</h>
+      <h>300</h>
     </coordinates>
     <panel_attributes>halign=left
 Key:
@@ -217,8 +172,8 @@ Key:
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>850</x>
-      <y>260</y>
+      <x>730</x>
+      <y>10</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -230,46 +185,21 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1300</x>
-      <y>40</y>
-      <w>100</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>&lt;FR&gt;
-bg=yellow</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>850</x>
-      <y>440</y>
-      <w>100</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>Remote 
-Storage
-bg=blue</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>850</x>
-      <y>550</y>
+      <x>190</x>
+      <y>260</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>Internet 
 Connection
-bg=blue</panel_attributes>
+bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>850</x>
-      <y>660</y>
+      <x>190</x>
+      <y>330</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
@@ -278,294 +208,301 @@ bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>750</x>
+      <y>110</y>
+      <w>50</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;150;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>210</x>
+      <y>270</y>
+      <w>50</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>30;60;30;30</additional_attributes>
+  </element>
+  <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1040</x>
-      <y>60</y>
-      <w>120</w>
-      <h>100</h>
+      <x>730</x>
+      <y>100</y>
+      <w>100</w>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>Interface
---
-- existing 
-- home-made
+    <panel_attributes>Medicine Data
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>410</x>
+      <y>180</y>
+      <w>310</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>D01: Acquire Blood Pressure Measurements Automatically
+style=wordwrap
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>410</x>
+      <y>680</y>
+      <w>310</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>D06: Rollback mechanism for erroneous upgrade
+style=wordwrap
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>80</x>
+      <y>680</y>
+      <w>310</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>D05: Runtime binding of security algorithm
+style=wordwrap
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>350</x>
+      <y>480</y>
+      <w>360</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>D04: System should be automatically upgradable
+style=wordwrap
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>90</x>
+      <y>400</y>
+      <w>310</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>D03: Secure communication between QCR and remote server 
+style=wordwrap
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>920</x>
-      <y>520</y>
-      <w>140</w>
-      <h>70</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-requires</panel_attributes>
-    <additional_attributes>30;50;120;50</additional_attributes>
-  </element>
-  <element>
-    <type>com.baselet.element.old.element.Relation</type>
-    <coordinates>
-      <x>840</x>
-      <y>270</y>
-      <w>108</w>
-      <h>100</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-requires</panel_attributes>
-    <additional_attributes>60;80;60;30</additional_attributes>
-  </element>
-  <element>
-    <type>com.baselet.element.old.element.Relation</type>
-    <coordinates>
-      <x>870</x>
-      <y>560</y>
+      <x>210</x>
+      <y>340</y>
       <w>50</w>
-      <h>120</h>
+      <h>80</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>30;100;30;30</additional_attributes>
-  </element>
-  <element>
-    <type>com.baselet.element.old.element.Relation</type>
-    <coordinates>
-      <x>840</x>
-      <y>450</y>
-      <w>108</w>
-      <h>120</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;.
-requires</panel_attributes>
-    <additional_attributes>60;100;60;30</additional_attributes>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;60;30;30</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>480</x>
-      <y>210</y>
-      <w>110</w>
+      <x>310</x>
+      <y>0</y>
+      <w>160</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Health Sensors
+    <panel_attributes>Monitor Blood Pressure
 bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>850</x>
-      <y>350</y>
+      <x>520</x>
+      <y>100</y>
       <w>100</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>Patient Data 
-Access
+    <panel_attributes>Measure Blood 
+Pressure
 bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>800</x>
-      <y>360</y>
-      <w>190</w>
-      <h>100</h>
+      <x>750</x>
+      <y>660</y>
+      <w>150</w>
+      <h>70</h>
     </coordinates>
     <panel_attributes>lt=&lt;.
-.                  solved by</panel_attributes>
-    <additional_attributes>100;80;100;30</additional_attributes>
+addressed by</panel_attributes>
+    <additional_attributes>130;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>750</x>
+      <y>610</y>
+      <w>150</w>
+      <h>94</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+requires /
+side-effect</panel_attributes>
+    <additional_attributes>130;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>750</x>
+      <y>20</y>
+      <w>50</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>30;80;30;30</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>350</x>
-      <y>330</y>
-      <w>110</w>
+      <x>80</x>
+      <y>180</y>
+      <w>310</w>
       <h>50</h>
     </coordinates>
-    <panel_attributes>Multiple sensor
-types
+    <panel_attributes>D02: Store Blood Pressure measurements locally and remotely
+style=wordwrap
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>190</x>
+      <y>100</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Store Data
 bg=red</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>540</x>
+      <y>110</y>
+      <w>50</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;70;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>210</x>
+      <y>110</y>
+      <w>50</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;70;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>350</x>
+      <y>10</y>
+      <w>240</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>220;90;220;70;30;70;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>210</x>
+      <y>10</y>
+      <w>190</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>30;90;30;70;170;70;170;30</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
       <x>570</x>
-      <y>330</y>
-      <w>140</w>
-      <h>50</h>
-    </coordinates>
-    <panel_attributes>Remind the 
-user to connect the 
-sensors
-bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>720</x>
-      <y>330</y>
-      <w>110</w>
-      <h>50</h>
-    </coordinates>
-    <panel_attributes>Store sensor
-data
-bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>0</x>
-      <y>460</y>
-      <w>110</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>Different sensor
-sample rate
-bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>350</x>
-      <y>400</y>
-      <w>110</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>Generic sensor
-interface
-bg=blue</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>430</x>
-      <y>460</y>
-      <w>130</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>Sensor connection
-bg=red</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Text</id>
-    <coordinates>
-      <x>350</x>
       <y>260</y>
-      <w>120</w>
-      <h>90</h>
+      <w>260</w>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>We want to be able to monitor multiple health related aspects.
-style=wordwrap</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Text</id>
-    <coordinates>
-      <x>680</x>
-      <y>530</y>
-      <w>160</w>
-      <h>90</h>
-    </coordinates>
-    <panel_attributes>Wireless sensors will be good for usability, because the user is not attached to QCR by a wire.
-style=wordwrap</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Text</id>
-    <coordinates>
-      <x>580</x>
-      <y>270</y>
-      <w>120</w>
-      <h>90</h>
-    </coordinates>
-    <panel_attributes>The user might forget to use the health sensors.
-style=wordwrap</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>420</x>
-      <y>650</y>
-      <w>220</w>
-      <h>120</h>
-    </coordinates>
-    <panel_attributes>Provide wired and 
-wireless connection
-with external hardware
---
-- Reliability
-- Usability
-- Interoperability
-
+    <panel_attributes>D07: Provide access to Patient Data
+style=wordwrap
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>Text</id>
+    <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
       <x>210</x>
-      <y>650</y>
-      <w>210</w>
-      <h>180</h>
+      <y>200</y>
+      <w>50</w>
+      <h>80</h>
     </coordinates>
-    <panel_attributes>- Many health related sensors have to be connected by wire.
-- A wired connection is also by definition more reliable than wireless.
-- Wireless sensor connection is good for usability
-- Wired connection for M2M connection will require wires all over the place.
-style=wordwrap</panel_attributes>
-    <additional_attributes/>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>30;60;30;30</additional_attributes>
   </element>
   <element>
-    <id>UMLState</id>
+    <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
-      <x>530</x>
-      <y>530</y>
-      <w>120</w>
-      <h>90</h>
+      <x>260</x>
+      <y>250</y>
+      <w>330</w>
+      <h>50</h>
     </coordinates>
-    <panel_attributes>Wireless Sensor
-Connection
---
-- Usability
-- Interoperable
-bg=blue</panel_attributes>
-    <additional_attributes/>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>30;30;310;30</additional_attributes>
   </element>
   <element>
-    <id>UMLState</id>
+    <type>com.baselet.element.old.element.Relation</type>
     <coordinates>
       <x>370</x>
-      <y>530</y>
-      <w>120</w>
-      <h>90</h>
+      <y>400</y>
+      <w>130</w>
+      <h>50</h>
     </coordinates>
-    <panel_attributes>Wired Sensor
-Connection
---
-- Reliable
-- Interoperable
-bg=blue</panel_attributes>
-    <additional_attributes/>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>110;30;60;30;30;30</additional_attributes>
   </element>
   <element>
-    <id>Text</id>
+    <id>UMLState</id>
     <coordinates>
-      <x>160</x>
-      <y>530</y>
-      <w>210</w>
-      <h>90</h>
+      <x>780</x>
+      <y>470</y>
+      <w>100</w>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>Many health related sensors have to be connected by wire. A wired connection is also by definition more reliable than wireless.
-style=wordwrap</panel_attributes>
+    <panel_attributes>&lt;functionality&gt;
+bg=yellow</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
