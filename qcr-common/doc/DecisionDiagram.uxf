@@ -4,7 +4,7 @@
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>20</x>
+      <x>170</x>
       <y>490</y>
       <w>100</w>
       <h>40</h>
@@ -16,7 +16,7 @@ bg=blue</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>0</x>
+      <x>150</x>
       <y>340</y>
       <w>140</w>
       <h>210</h>
@@ -31,7 +31,7 @@ Key:
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>20</x>
+      <x>170</x>
       <y>430</y>
       <w>100</w>
       <h>40</h>
@@ -43,58 +43,34 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>540</x>
-      <y>80</y>
-      <w>310</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>D01: Acquire Blood Pressure 
-measurements by manual user input
-bg=blue</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>370</x>
-      <y>260</y>
-      <w>310</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>D03: Store Blood Pressure measurements 
-locally and remotely
-bg=blue</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>540</x>
-      <y>170</y>
-      <w>310</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>D02: Manual user input of BP measurements 
-should consists of two or more measurements.
-bg=blue</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
       <x>690</x>
-      <y>110</y>
-      <w>30</w>
-      <h>80</h>
+      <y>160</y>
+      <w>310</w>
+      <h>40</h>
     </coordinates>
-    <panel_attributes>lt=-&gt;</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+    <panel_attributes>D01: Acquire Blood Pressure Measurements Automatically
+style=wordwrap
+bg=blue</panel_attributes>
+    <additional_attributes/>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>260</x>
-      <y>20</y>
+      <x>520</x>
+      <y>250</y>
+      <w>310</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>D02: Store Blood Pressure measurements locally and remotely
+style=wordwrap
+bg=blue</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>240</x>
+      <y>70</y>
       <w>160</w>
       <h>40</h>
     </coordinates>
@@ -105,65 +81,66 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>410</x>
-      <y>20</y>
-      <w>310</w>
-      <h>80</h>
+      <x>390</x>
+      <y>70</y>
+      <w>480</w>
+      <h>110</h>
     </coordinates>
     <panel_attributes>lt=-&gt;</panel_attributes>
-    <additional_attributes>10.0;10.0;290.0;10.0;290.0;60.0</additional_attributes>
+    <additional_attributes>10.0;10.0;460.0;10.0;460.0;90.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>410</x>
-      <y>40</y>
-      <w>130</w>
-      <h>240</h>
+      <x>390</x>
+      <y>90</y>
+      <w>300</w>
+      <h>180</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>110.0;220.0;110.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>280.0;160.0;280.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>370</x>
-      <y>350</y>
+      <x>520</x>
+      <y>340</y>
       <w>310</w>
-      <h>40</h>
+      <h>50</h>
     </coordinates>
-    <panel_attributes>D04: Secure communication between QCR and 
-remote server 
+    <panel_attributes>D03: Secure communication between QCR and remote server 
+style=wordwrap
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>510</x>
+      <x>660</x>
       <y>290</y>
       <w>30</w>
-      <h>80</h>
+      <h>70</h>
     </coordinates>
     <panel_attributes>lt=-&gt;</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>190</x>
+      <x>340</x>
       <y>510</y>
       <w>310</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>D06: Runtime binding of security algorithm
+    <panel_attributes>D05: Runtime binding of security algorithm
+style=wordwrap
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>410</x>
+      <x>560</x>
       <y>460</y>
       <w>30</w>
       <h>70</h>
@@ -174,19 +151,20 @@ bg=blue</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>350</x>
+      <x>500</x>
       <y>430</y>
       <w>360</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>D05: Security Algorithm should be manually upgradable
+    <panel_attributes>D04: Security Algorithm should be manually upgradable
+style=wordwrap
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>510</x>
+      <x>660</x>
       <y>380</y>
       <w>30</w>
       <h>70</h>
@@ -197,19 +175,20 @@ bg=blue</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>520</x>
+      <x>670</x>
       <y>510</y>
       <w>330</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>D07: Rollback mechanism for erroneous upgrade
+    <panel_attributes>D06: Rollback mechanism for erroneous upgrade
+style=wordwrap
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>650</x>
+      <x>800</x>
       <y>460</y>
       <w>30</w>
       <h>70</h>
@@ -220,7 +199,7 @@ bg=blue</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>90</x>
+      <x>240</x>
       <y>140</y>
       <w>160</w>
       <h>40</h>
@@ -232,19 +211,20 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>40</x>
+      <x>190</x>
       <y>260</y>
       <w>260</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>D08: Provide access to Patient Data
+    <panel_attributes>D07: Provide access to Patient Data
+style=wordwrap
 bg=blue</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>160</x>
+      <x>310</x>
       <y>170</y>
       <w>30</w>
       <h>110</h>
@@ -255,7 +235,7 @@ bg=blue</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>160</x>
+      <x>310</x>
       <y>290</y>
       <w>230</w>
       <h>100</h>
@@ -266,7 +246,7 @@ bg=blue</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>10</x>
+      <x>160</x>
       <y>380</y>
       <w>130</w>
       <h>40</h>

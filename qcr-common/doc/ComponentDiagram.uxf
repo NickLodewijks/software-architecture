@@ -4,8 +4,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>90</x>
-      <y>310</y>
+      <x>100</x>
+      <y>290</y>
       <w>60</w>
       <h>100</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>220</x>
-      <y>70</y>
+      <x>230</x>
+      <y>50</y>
       <w>110</w>
       <h>40</h>
     </coordinates>
@@ -28,8 +28,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>140</x>
-      <y>80</y>
+      <x>150</x>
+      <y>60</y>
       <w>100</w>
       <h>290</h>
     </coordinates>
@@ -39,8 +39,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>250</x>
-      <y>290</y>
+      <x>260</x>
+      <y>270</y>
       <w>110</w>
       <h>30</h>
     </coordinates>
@@ -51,8 +51,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>380</x>
-      <y>70</y>
+      <x>390</x>
+      <y>50</y>
       <w>110</w>
       <h>40</h>
     </coordinates>
@@ -63,8 +63,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>320</x>
-      <y>80</y>
+      <x>330</x>
+      <y>60</y>
       <w>80</w>
       <h>30</h>
     </coordinates>
@@ -74,8 +74,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>100</y>
+      <x>430</x>
+      <y>80</y>
       <w>30</w>
       <h>140</h>
     </coordinates>
@@ -87,8 +87,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>250</x>
-      <y>250</y>
+      <x>260</x>
+      <y>230</y>
       <w>110</w>
       <h>30</h>
     </coordinates>
@@ -99,8 +99,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>380</x>
-      <y>220</y>
+      <x>390</x>
+      <y>200</y>
       <w>110</w>
       <h>30</h>
     </coordinates>
@@ -111,8 +111,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
-      <y>240</y>
+      <x>360</x>
+      <y>220</y>
       <w>80</w>
       <h>80</h>
     </coordinates>
@@ -122,8 +122,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
-      <y>240</y>
+      <x>360</x>
+      <y>220</y>
       <w>60</w>
       <h>50</h>
     </coordinates>
@@ -133,8 +133,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>670</x>
-      <y>520</y>
+      <x>680</x>
+      <y>500</y>
       <w>130</w>
       <h>60</h>
     </coordinates>
@@ -145,8 +145,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>480</x>
-      <y>220</y>
+      <x>490</x>
+      <y>200</y>
       <w>210</w>
       <h>330</h>
     </coordinates>
@@ -156,8 +156,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>680</x>
-      <y>300</y>
+      <x>690</x>
+      <y>280</y>
       <w>140</w>
       <h>30</h>
     </coordinates>
@@ -168,8 +168,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>790</x>
-      <y>430</y>
+      <x>800</x>
+      <y>410</y>
       <w>90</w>
       <h>130</h>
     </coordinates>
@@ -179,8 +179,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>200</x>
-      <y>20</y>
+      <x>210</x>
+      <y>0</y>
       <w>350</w>
       <h>110</h>
     </coordinates>
@@ -195,12 +195,12 @@ valign=top</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>610</x>
-      <y>240</y>
+      <x>620</x>
+      <y>220</y>
       <w>280</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>D04: Secure communication between QCR and remote server
+    <panel_attributes>D03: Secure communication between QCR and remote server
 --
 fg=blue
 style=wordwrap
@@ -211,12 +211,12 @@ valign=top</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>200</x>
-      <y>150</y>
+      <x>210</x>
+      <y>130</y>
       <w>350</w>
       <h>190</h>
     </coordinates>
-    <panel_attributes>D03: Store Blood Pressure measurements locally and remotely
+    <panel_attributes>D02: Store Blood Pressure measurements locally and remotely
 --
 fg=blue
 style=wordwrap
@@ -227,8 +227,8 @@ valign=top</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>700</x>
-      <y>20</y>
+      <x>710</x>
+      <y>0</y>
       <w>190</w>
       <h>190</h>
     </coordinates>
@@ -242,8 +242,8 @@ valign=top</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>720</x>
-      <y>50</y>
+      <x>730</x>
+      <y>30</y>
       <w>160</w>
       <h>40</h>
     </coordinates>
@@ -254,12 +254,12 @@ valign=top</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>200</x>
-      <y>460</y>
+      <x>210</x>
+      <y>440</y>
       <w>350</w>
       <h>90</h>
     </coordinates>
-    <panel_attributes>D05: System should be automatically upgradable
+    <panel_attributes>D04: System should be automatically upgradable
 --
 fg=blue
 style=wordwrap
@@ -270,8 +270,8 @@ valign=top</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>400</x>
-      <y>500</y>
+      <x>410</x>
+      <y>480</y>
       <w>130</w>
       <h>30</h>
     </coordinates>
@@ -282,8 +282,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>520</x>
-      <y>500</y>
+      <x>530</x>
+      <y>480</y>
       <w>170</w>
       <h>90</h>
     </coordinates>
@@ -293,12 +293,12 @@ bg=green</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>610</x>
-      <y>360</y>
+      <x>620</x>
+      <y>340</y>
       <w>280</w>
       <h>120</h>
     </coordinates>
-    <panel_attributes>D06: Runtime binding of security algorithm
+    <panel_attributes>D05: Runtime binding of security algorithm
 --
 fg=blue
 style=wordwrap
@@ -309,8 +309,8 @@ valign=top</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>670</x>
-      <y>410</y>
+      <x>680</x>
+      <y>390</y>
       <w>130</w>
       <h>40</h>
     </coordinates>
@@ -322,8 +322,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>790</x>
-      <y>300</y>
+      <x>800</x>
+      <y>280</y>
       <w>90</w>
       <h>140</h>
     </coordinates>
@@ -333,12 +333,12 @@ bg=green</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>200</x>
-      <y>570</y>
+      <x>210</x>
+      <y>550</y>
       <w>350</w>
       <h>90</h>
     </coordinates>
-    <panel_attributes>D07: Rollback mechanism for erroneous upgrade
+    <panel_attributes>D06: Rollback mechanism for erroneous upgrade
 --
 fg=blue
 style=wordwrap
@@ -349,8 +349,8 @@ valign=top</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>390</x>
-      <y>610</y>
+      <x>400</x>
+      <y>590</y>
       <w>150</w>
       <h>40</h>
     </coordinates>
@@ -362,8 +362,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>490</x>
-      <y>520</y>
+      <x>500</x>
+      <y>500</y>
       <w>30</w>
       <h>110</h>
     </coordinates>
@@ -373,12 +373,12 @@ bg=green</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>340</x>
-      <y>350</y>
+      <x>350</x>
+      <y>330</y>
       <w>210</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>D08: Provide access to Patient Data
+    <panel_attributes>D07: Provide access to Patient Data
 --
 fg=blue
 style=wordwrap
@@ -389,8 +389,8 @@ valign=top</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>370</x>
-      <y>400</y>
+      <x>380</x>
+      <y>380</y>
       <w>150</w>
       <h>40</h>
     </coordinates>
@@ -402,8 +402,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>510</x>
-      <y>410</y>
+      <x>520</x>
+      <y>390</y>
       <w>180</w>
       <h>160</h>
     </coordinates>
@@ -413,8 +413,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>200</x>
-      <y>400</y>
+      <x>210</x>
+      <y>380</y>
       <w>120</w>
       <h>30</h>
     </coordinates>
@@ -425,8 +425,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>140</x>
-      <y>360</y>
+      <x>150</x>
+      <y>340</y>
       <w>80</w>
       <h>80</h>
     </coordinates>
@@ -436,8 +436,8 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>310</x>
-      <y>410</y>
+      <x>320</x>
+      <y>390</y>
       <w>80</w>
       <h>30</h>
     </coordinates>
@@ -447,8 +447,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>730</x>
-      <y>100</y>
+      <x>740</x>
+      <y>80</y>
       <w>130</w>
       <h>30</h>
     </coordinates>
@@ -459,8 +459,8 @@ bg=green</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>730</x>
-      <y>150</y>
+      <x>740</x>
+      <y>130</y>
       <w>130</w>
       <h>40</h>
     </coordinates>
@@ -475,8 +475,8 @@ valign=top</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>420</x>
-      <y>240</y>
+      <x>430</x>
+      <y>220</y>
       <w>30</w>
       <h>180</h>
     </coordinates>
