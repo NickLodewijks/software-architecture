@@ -9,6 +9,7 @@
 * Gianluca Guidi
 * Julian Jansen
 
+
 ### Required Tools
 
 * IDE: Eclipse Mars (v4.5.0), [link](https://projects.eclipse.org/releases/mars)
@@ -16,7 +17,7 @@
 * Version Management: Git (v2.5.*), [link](https://git-scm.com/)
 
 ### IDE Configuration
- *under construction*
+ *under construction*.
 
 ### Maven Commands
 

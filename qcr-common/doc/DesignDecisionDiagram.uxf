@@ -59,7 +59,7 @@ bg=blue</panel_attributes>
       <x>490</x>
       <y>260</y>
       <w>310</w>
-      <h>50</h>
+      <h>60</h>
     </coordinates>
     <panel_attributes>D02: Store Blood Pressure measurements locally and remotely
 style=wordwrap
@@ -117,12 +117,12 @@ bg=blue</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>630</x>
-      <y>300</y>
+      <y>310</y>
       <w>30</w>
-      <h>70</h>
+      <h>60</h>
     </coordinates>
     <panel_attributes>lt=-&gt;</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
@@ -212,11 +212,12 @@ bg=yellow</panel_attributes>
     <id>UMLState</id>
     <coordinates>
       <x>160</x>
-      <y>270</y>
+      <y>260</y>
       <w>260</w>
-      <h>40</h>
+      <h>60</h>
     </coordinates>
-    <panel_attributes>D07: Provide access to Patient Data
+    <panel_attributes>D07: Local Storage of Patient Data (medicine schedule)
+
 style=wordwrap
 bg=blue</panel_attributes>
     <additional_attributes/>
@@ -227,21 +228,21 @@ bg=blue</panel_attributes>
       <x>280</x>
       <y>180</y>
       <w>30</w>
-      <h>110</h>
+      <h>100</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>10.0;90.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>280</x>
-      <y>300</y>
+      <y>310</y>
       <w>230</w>
-      <h>100</h>
+      <h>90</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>210.0;80.0;10.0;80.0;10.0;10.0</additional_attributes>
+    <additional_attributes>210.0;70.0;10.0;70.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>

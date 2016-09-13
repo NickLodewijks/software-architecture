@@ -4,8 +4,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>130</x>
-      <y>320</y>
+      <x>100</x>
+      <y>300</y>
       <w>60</w>
       <h>100</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>260</x>
-      <y>80</y>
+      <x>290</x>
+      <y>60</y>
       <w>110</w>
       <h>40</h>
     </coordinates>
@@ -28,19 +28,19 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>180</x>
-      <y>90</y>
-      <w>100</w>
+      <x>150</x>
+      <y>70</y>
+      <w>160</w>
       <h>290</h>
     </coordinates>
     <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>80.0;10.0;30.0;10.0;30.0;270.0;10.0;270.0</additional_attributes>
+    <additional_attributes>140.0;10.0;40.0;10.0;40.0;270.0;10.0;270.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
       <x>290</x>
-      <y>300</y>
+      <y>280</y>
       <w>110</w>
       <h>30</h>
     </coordinates>
@@ -49,33 +49,21 @@ bg=green</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>UMLClass</id>
-    <coordinates>
-      <x>420</x>
-      <y>80</y>
-      <w>110</w>
-      <h>40</h>
-    </coordinates>
-    <panel_attributes>Health Monitor
-bg=green</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>Relation</id>
     <coordinates>
-      <x>360</x>
-      <y>90</y>
-      <w>80</w>
+      <x>390</x>
+      <y>70</y>
+      <w>70</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;60.0;10.0</additional_attributes>
+    <additional_attributes>10.0;10.0;50.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>460</x>
-      <y>110</y>
+      <x>480</x>
+      <y>90</y>
       <w>30</w>
       <h>140</h>
     </coordinates>
@@ -88,7 +76,7 @@ bg=green</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>290</x>
-      <y>260</y>
+      <y>240</y>
       <w>110</w>
       <h>30</h>
     </coordinates>
@@ -100,7 +88,7 @@ bg=green</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>420</x>
-      <y>230</y>
+      <y>210</y>
       <w>110</w>
       <h>30</h>
     </coordinates>
@@ -112,7 +100,7 @@ bg=green</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>390</x>
-      <y>250</y>
+      <y>230</y>
       <w>80</w>
       <h>80</h>
     </coordinates>
@@ -123,7 +111,7 @@ bg=green</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>390</x>
-      <y>250</y>
+      <y>230</y>
       <w>60</w>
       <h>50</h>
     </coordinates>
@@ -134,7 +122,7 @@ bg=green</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>710</x>
-      <y>530</y>
+      <y>510</y>
       <w>130</w>
       <h>60</h>
     </coordinates>
@@ -146,19 +134,19 @@ bg=green</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>520</x>
-      <y>230</y>
+      <y>220</y>
       <w>210</w>
-      <h>330</h>
+      <h>320</h>
     </coordinates>
     <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>190.0;310.0;110.0;310.0;110.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>190.0;300.0;110.0;300.0;110.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>720</x>
-      <y>310</y>
-      <w>140</w>
+      <x>710</x>
+      <y>290</y>
+      <w>150</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>Data Encryption
@@ -169,7 +157,7 @@ bg=green</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>830</x>
-      <y>440</y>
+      <y>420</y>
       <w>90</w>
       <h>130</h>
     </coordinates>
@@ -179,10 +167,10 @@ bg=green</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>240</x>
-      <y>30</y>
-      <w>350</w>
-      <h>110</h>
+      <x>230</x>
+      <y>0</y>
+      <w>360</w>
+      <h>120</h>
     </coordinates>
     <panel_attributes>D01: Acquire Blood Pressure Measurements Automatically
 --
@@ -196,7 +184,7 @@ valign=top</panel_attributes>
     <id>UMLObject</id>
     <coordinates>
       <x>650</x>
-      <y>250</y>
+      <y>230</y>
       <w>280</w>
       <h>100</h>
     </coordinates>
@@ -211,9 +199,9 @@ valign=top</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>240</x>
-      <y>160</y>
-      <w>350</w>
+      <x>230</x>
+      <y>140</y>
+      <w>360</w>
       <h>190</h>
     </coordinates>
     <panel_attributes>D02: Store Blood Pressure measurements locally and remotely
@@ -228,7 +216,7 @@ valign=top</panel_attributes>
     <id>UMLObject</id>
     <coordinates>
       <x>740</x>
-      <y>30</y>
+      <y>10</y>
       <w>190</w>
       <h>190</h>
     </coordinates>
@@ -243,7 +231,7 @@ valign=top</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>760</x>
-      <y>60</y>
+      <y>40</y>
       <w>160</w>
       <h>40</h>
     </coordinates>
@@ -254,9 +242,9 @@ valign=top</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>240</x>
-      <y>470</y>
-      <w>350</w>
+      <x>230</x>
+      <y>450</y>
+      <w>360</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>D04: System should be automatically upgradable
@@ -271,7 +259,7 @@ valign=top</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>440</x>
-      <y>510</y>
+      <y>490</y>
       <w>130</w>
       <h>30</h>
     </coordinates>
@@ -283,7 +271,7 @@ bg=green</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>560</x>
-      <y>510</y>
+      <y>490</y>
       <w>170</w>
       <h>90</h>
     </coordinates>
@@ -294,7 +282,7 @@ bg=green</panel_attributes>
     <id>UMLObject</id>
     <coordinates>
       <x>650</x>
-      <y>370</y>
+      <y>350</y>
       <w>280</w>
       <h>120</h>
     </coordinates>
@@ -310,7 +298,7 @@ valign=top</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>710</x>
-      <y>420</y>
+      <y>400</y>
       <w>130</w>
       <h>40</h>
     </coordinates>
@@ -323,7 +311,7 @@ bg=green</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>830</x>
-      <y>310</y>
+      <y>290</y>
       <w>90</w>
       <h>140</h>
     </coordinates>
@@ -333,9 +321,9 @@ bg=green</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>240</x>
-      <y>580</y>
-      <w>350</w>
+      <x>230</x>
+      <y>560</y>
+      <w>360</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>D06: Rollback mechanism for erroneous upgrade
@@ -350,7 +338,7 @@ valign=top</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>430</x>
-      <y>620</y>
+      <y>600</y>
       <w>150</w>
       <h>40</h>
     </coordinates>
@@ -363,7 +351,7 @@ bg=green</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>530</x>
-      <y>530</y>
+      <y>510</y>
       <w>30</w>
       <h>110</h>
     </coordinates>
@@ -373,12 +361,12 @@ bg=green</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>380</x>
-      <y>360</y>
-      <w>210</w>
+      <x>230</x>
+      <y>340</y>
+      <w>360</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>D07: Provide access to Patient Data
+    <panel_attributes>D07: Local Storage of Patient Data (medicine schedule)
 --
 fg=blue
 style=wordwrap
@@ -390,7 +378,7 @@ valign=top</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>410</x>
-      <y>410</y>
+      <y>390</y>
       <w>150</w>
       <h>40</h>
     </coordinates>
@@ -403,7 +391,7 @@ bg=green</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>550</x>
-      <y>420</y>
+      <y>400</y>
       <w>180</w>
       <h>160</h>
     </coordinates>
@@ -413,10 +401,10 @@ bg=green</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>240</x>
-      <y>410</y>
+      <x>250</x>
+      <y>390</y>
       <w>120</w>
-      <h>30</h>
+      <h>40</h>
     </coordinates>
     <panel_attributes>Medicine Agenda
 bg=green</panel_attributes>
@@ -425,30 +413,30 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>180</x>
-      <y>370</y>
-      <w>80</w>
+      <x>150</x>
+      <y>350</y>
+      <w>120</w>
       <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>60.0;60.0;30.0;60.0;30.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>100.0;60.0;40.0;60.0;40.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>350</x>
-      <y>420</y>
-      <w>80</w>
+      <x>360</x>
+      <y>400</y>
+      <w>70</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>60.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
       <x>770</x>
-      <y>110</y>
+      <y>90</y>
       <w>130</w>
       <h>30</h>
     </coordinates>
@@ -460,7 +448,7 @@ bg=green</panel_attributes>
     <id>UMLObject</id>
     <coordinates>
       <x>770</x>
-      <y>160</y>
+      <y>140</y>
       <w>130</w>
       <h>40</h>
     </coordinates>
@@ -476,7 +464,7 @@ valign=top</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>460</x>
-      <y>250</y>
+      <y>230</y>
       <w>30</w>
       <h>180</h>
     </coordinates>
@@ -484,5 +472,18 @@ valign=top</panel_attributes>
 
 </panel_attributes>
     <additional_attributes>10.0;10.0;10.0;160.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>440</x>
+      <y>60</y>
+      <w>120</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Blood Pressure
+Monitor
+bg=green</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
